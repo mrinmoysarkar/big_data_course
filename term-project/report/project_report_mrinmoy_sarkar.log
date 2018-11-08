@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6730) (preloaded format=pdflatex 2018.8.24)  12 OCT 2018 23:48
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6730) (preloaded format=pdflatex 2018.8.24)  8 NOV 2018 00:09
 entering extended mode
 **./project_report_mrinmoy_sarkar.tex
 (project_report_mrinmoy_sarkar.tex
@@ -524,22 +524,130 @@ Package grfext Info: Graphics extension search list:
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
 )
-LaTeX Font Info:    Try loading font information for U+msa on input line 49.
+LaTeX Font Info:    Try loading font information for U+msa on input line 48.
 
 ("/Users/mrinmoysarkar/Library/Application Support/MiKTeX/texmfs/install/tex/la
 tex/amsfonts/umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 49.
+LaTeX Font Info:    Try loading font information for U+msb on input line 48.
 
 ("/Users/mrinmoysarkar/Library/Application Support/MiKTeX/texmfs/install/tex/la
 tex/amsfonts/umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) (project_report_mrinmoy_sarkar.bbl [1{/Users/mrinmoysarkar/Library/Applicatio
-n Support/MiKTeX/texmfs/data/pdftex/config/pdftex.map}
+)
+<./figures/auto_encoder_architecture.png, id=1, 1824.8175pt x 610.28pt>
+File: ./figures/auto_encoder_architecture.png Graphic file (type png)
+<use ./figures/auto_encoder_architecture.png>
+Package pdftex.def Info: ./figures/auto_encoder_architecture.png  used on input
+ line 75.
+(pdftex.def)             Requested size: 505.87773pt x 238.49246pt.
+ [1{/Users/mrinmoysarkar/Library/Application Support/MiKTeX/texmfs/data/pdftex/
+config/pdftex.map}
 
 
-])
+]
+Underfull \hbox (badness 2608) in paragraph at lines 96--98
+\OT1/ptm/m/n/10 consider the spation characteristic of the image. Thue
+ []
+
+
+Underfull \hbox (badness 3138) in paragraph at lines 100--102
+[]\OT1/ptm/m/n/10 The discussed techniques are prone to segmentation
+ []
+
+
+Underfull \hbox (badness 1622) in paragraph at lines 100--102
+\OT1/ptm/m/n/10 models of this physical interaction in the segmentation
+ []
+
+<./figures/convlayer.png, id=11, 236.52pt x 111.252pt>
+File: ./figures/convlayer.png Graphic file (type png)
+<use ./figures/convlayer.png>
+Package pdftex.def Info: ./figures/convlayer.png  used on input line 112.
+(pdftex.def)             Requested size: 216.81065pt x 144.541pt.
+<./figures/relu.png, id=13, 254.9525pt x 198.7425pt>
+File: ./figures/relu.png Graphic file (type png)
+<use ./figures/relu.png>
+Package pdftex.def Info: ./figures/relu.png  used on input line 118.
+(pdftex.def)             Requested size: 216.81955pt x 144.54404pt.
+[2 <./figures/auto_encoder_architecture.png (PNG copy)>]
+<./figures/poolinglayer.png, id=19, 247.92625pt x 211.28937pt>
+File: ./figures/poolinglayer.png Graphic file (type png)
+<use ./figures/poolinglayer.png>
+Package pdftex.def Info: ./figures/poolinglayer.png  used on input line 143.
+(pdftex.def)             Requested size: 180.67444pt x 180.68007pt.
+<./figures/nearest_neighbor.png, id=20, 195.73125pt x 138.5175pt>
+File: ./figures/nearest_neighbor.png Graphic file (type png)
+<use ./figures/nearest_neighbor.png>
+Package pdftex.def Info: ./figures/nearest_neighbor.png  used on input line 149
+.
+(pdftex.def)             Requested size: 180.68419pt x 180.6751pt.
+
+Overfull \hbox (37.7484pt too wide) in paragraph at lines 161--194
+ [][] 
+ []
+
+[3 <./figures/convlayer.png> <./figures/relu.png> <./figures/poolinglayer.png> 
+<./figures/nearest_neighbor.png>]
+Underfull \hbox (badness 2057) in paragraph at lines 225--226
+\OT1/ptm/m/n/10 process based on first order information only and the
+ []
+
+<./figures/dataset.png, id=32, 369.38pt x 247.92625pt>
+File: ./figures/dataset.png Graphic file (type png)
+<use ./figures/dataset.png>
+Package pdftex.def Info: ./figures/dataset.png  used on input line 228.
+(pdftex.def)             Requested size: 252.94485pt x 180.67444pt.
+[4 <./figures/dataset.png>] (project_report_mrinmoy_sarkar.bbl
+Underfull \hbox (badness 10000) in paragraph at lines 64--66
+[]\OT1/ptm/m/n/8 ``Autoencoders - deep learning bits,''
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 64--66
+\OT1/ptm/m/n/8 https://hackernoon.com/autoencoders-deep-learning-bits-1-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--70
+[]\OT1/ptm/m/n/8 ``2d convolution,'' https://github.com/PetarV-
+ []
+
+
+Underfull \hbox (badness 4217) in paragraph at lines 72--75
+[]\OT1/ptm/m/n/8 ``Relu : Not a differentiable function: Why used in gradient
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 72--75
+\OT1/ptm/m/n/8 based optimization? and other generalizations of relu.''
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 72--75
+\OT1/ptm/m/n/8 https://medium.com/@kanchansarkar/relu-not-a-differentiable-func
+tion-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 77--79
+[]\OT1/ptm/m/n/8 ``An intuitive explanation of convolutional neural networks,''
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 81--83
+[]\OT1/ptm/m/n/8 ``Image scaling methods and matlab implementations,''
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 81--83
+\OT1/ptm/m/n/8 https://aditharajakaruna.wordpress.com/2013/07/12/image-scaling-
+
+ []
+
+)
 
 ** Conference Paper **
 Before submitting the final camera ready copy, remember to:
@@ -551,29 +659,39 @@ Before submitting the final camera ready copy, remember to:
  uses only Type 1 fonts and that every step in the generation
  process uses the appropriate paper size.
 
-[2
+[5
 
 ] (project_report_mrinmoy_sarkar.aux) ) 
 Here is how much of TeX's memory you used:
- 4381 strings out of 494891
- 67278 string characters out of 3176505
- 131260 words of memory out of 3000000
- 7949 multiletter control sequences out of 15000+200000
- 35842 words of font info for 71 fonts, out of 3000000 for 9000
+ 4455 strings out of 494891
+ 68618 string characters out of 3176505
+ 139374 words of memory out of 3000000
+ 8005 multiletter control sequences out of 15000+200000
+ 40666 words of font info for 85 fonts, out of 3000000 for 9000
  0 hyphenation exceptions out of 8191
- 41i,8n,35p,1272b,250s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 41i,18n,35p,1272b,250s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/Users/mrinmoysarkar/Library/Applicatio
 n Support/MiKTeX/texmfs/install/fonts/enc/dvips/base/8r.enc}</Users/mrinmoysark
 ar/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfont
-s/cm/cmsy7.pfb></Users/mrinmoysarkar/Library/Application Support/MiKTeX/texmfs/
-install/fonts/type1/urw/times/utmb8a.pfb></Users/mrinmoysarkar/Library/Applicat
-ion Support/MiKTeX/texmfs/install/fonts/type1/urw/times/utmbi8a.pfb></Users/mri
-nmoysarkar/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/urw/ti
-mes/utmr8a.pfb></Users/mrinmoysarkar/Library/Application Support/MiKTeX/texmfs/
-install/fonts/type1/urw/times/utmri8a.pfb>
-Output written on project_report_mrinmoy_sarkar.pdf (2 pages, 71500 bytes).
+s/cm/cmex10.pfb></Users/mrinmoysarkar/Library/Application Support/MiKTeX/texmfs
+/install/fonts/type1/public/amsfonts/cm/cmmi10.pfb></Users/mrinmoysarkar/Librar
+y/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi
+7.pfb></Users/mrinmoysarkar/Library/Application Support/MiKTeX/texmfs/install/f
+onts/type1/public/amsfonts/cm/cmr10.pfb></Users/mrinmoysarkar/Library/Applicati
+on Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr7.pfb></User
+s/mrinmoysarkar/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/p
+ublic/amsfonts/cm/cmsy10.pfb></Users/mrinmoysarkar/Library/Application Support/
+MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy7.pfb></Users/mrinmoys
+arkar/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsf
+onts/symbols/msam10.pfb></Users/mrinmoysarkar/Library/Application Support/MiKTe
+X/texmfs/install/fonts/type1/urw/times/utmb8a.pfb></Users/mrinmoysarkar/Library
+/Application Support/MiKTeX/texmfs/install/fonts/type1/urw/times/utmbi8a.pfb></
+Users/mrinmoysarkar/Library/Application Support/MiKTeX/texmfs/install/fonts/typ
+e1/urw/times/utmr8a.pfb></Users/mrinmoysarkar/Library/Application Support/MiKTe
+X/texmfs/install/fonts/type1/urw/times/utmri8a.pfb>
+Output written on project_report_mrinmoy_sarkar.pdf (5 pages, 357517 bytes).
 PDF statistics:
- 30 PDF objects out of 1000 (max. 8388607)
+ 78 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 31 words of extra memory for PDF output out of 10000 (max. 10000000)
 
